@@ -1,2 +1,2 @@
-# ideal-palm-tree
+# EntriRepo
 project of entri DSML
